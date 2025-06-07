@@ -1,0 +1,146 @@
+{
+    "H-for-Vw=5.0.csv": {
+        "state": "healthy",
+        "wind_speed": 5.0
+    },
+    "Crack Fault-Vw=5.csv": {
+        "state": "crack",
+        "wind_speed": 5.0
+    },
+    "Erosion Fault state-Vw=5.csv": {
+        "state": "erosion",
+        "wind_speed": 5.0
+    },
+    "unbalance fault state-Vw=5.csv": {
+        "state": "unbalance",
+        "wind_speed": 5.0
+    },
+    "twist fault when Vw=5.xlsx": {
+        "state": "twist",
+        "wind_speed": 5.0
+    },
+    "H-for Vw=1.3.csv": {
+        "state": "healthy",
+        "wind_speed": 1.3
+    },
+    "Crack State-Vw=1.3.csv": {
+        "state": "crack",
+        "wind_speed": 1.3
+    },
+    "Erosion fault state-Vw=1.3.csv": {
+        "state": "erosion",
+        "wind_speed": 1.3
+    },
+    "UnbalanceState-Vw=1.3.csv": {
+        "state": "unbalance",
+        "wind_speed": 1.3
+    },
+    "twist fault when Vw=1.3.xlsx": {
+        "state": "twist",
+        "wind_speed": 1.3
+    },
+    "H for Vw=2.3.csv": {
+        "state": "healthy",
+        "wind_speed": 2.3
+    },
+    "unbalance fault state=Vw=2.3.csv": {
+        "state": "unbalance",
+        "wind_speed": 2.3
+    },
+    "H-for-Vw=3.2.csv": {
+        "state": "healthy",
+        "wind_speed": 3.2
+    },
+    "twist faultwhenVw=3.2.xlsx": {
+        "state": "twist",
+        "wind_speed": 3.2
+    },
+    "H-for-Vw=3.7.csv": {
+        "state": "healthy",
+        "wind_speed": 3.7
+    },
+    "H-for-Vw=4.5.csv": {
+        "state": "healthy",
+        "wind_speed": 4.5
+    },
+    "crack fault state-Vw=4.5.csv": {
+        "state": "crack",
+        "wind_speed": 4.5
+    },
+    "H-Vw=5.3.csv": {
+        "state": "healthy",
+        "wind_speed": 5.3
+    },
+    "Crack Fault-Vw=5.4.csv": {
+        "state": "crack",
+        "wind_speed": 5.4
+    },
+    "Erosion fault state-Vw=5.3.csv": {
+        "state": "erosion",
+        "wind_speed": 5.3
+    },
+    "unbalance fault state-Vw=4.7.csv": {
+        "state": "unbalance",
+        "wind_speed": 4.7
+    },
+    "unbalance fault state-Vw=4.2.csv": {
+        "state": "unbalance",
+        "wind_speed": 4.2
+    },
+    "Crack state-Vw=2.8.csv": {
+        "state": "crack",
+        "wind_speed": 2.8
+    },
+    "Erosion fault state-Vw=2.1.csv": {
+        "state": "erosion",
+        "wind_speed": 2.1
+    },
+    "Erosion fault state-Vw=2.8.csv": {
+        "state": "erosion",
+        "wind_speed": 2.8
+    },
+    "unbalnce fault state-Vw=3.csv": {
+        "state": "unbalance",
+        "wind_speed": 3.0
+    },
+    "Erosion Fault State-Vw=4.2.csv": {
+        "state": "erosion",
+        "wind_speed": 4.2
+    },
+    "unbalance fault state-Vw=3.4.csv": {
+        "state": "unbalance",
+        "wind_speed": 3.4
+    },
+    "twist fault when Vw=4.7.xlsx": {
+        "state": "twist",
+        "wind_speed": 4.7
+    },
+    "crack fault-Vw=4.csv": {
+        "state": "crack",
+        "wind_speed": 4.0
+    },
+    "Crack state-Vw=3.3.csv": {
+        "state": "crack",
+        "wind_speed": 3.3
+    },
+    "Erosion fault state-Vw=3.4.csv": {
+        "state": "erosion",
+        "wind_speed": 3.4
+    },
+    "twist fault when Vwind=4.xlsx": {
+        "state": "twist",
+        "wind_speed": 4.0
+    },
+    "twsist faut when Vw=2.xlsx": {
+        "state": "twist",
+        "wind_speed": 2.0
+    },
+    "twist fault when Vw=5.3.xlsx": {
+        "state": "twist",
+        "wind_speed": 5.3
+    },
+    "H-for-Vw=5.csv": {
+        "state": "healthy",
+        "wind_speed": 5.0
+    }
+}
